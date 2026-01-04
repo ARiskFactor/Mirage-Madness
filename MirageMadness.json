@@ -3235,9 +3235,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				10,
-				15
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3402,9 +3400,7 @@
 			],
 			"ItemWhitelist": [
 				0,
-				5,
-				10,
-				15
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {

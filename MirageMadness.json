@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1767761291,
+	"Version": 1768858521,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -60,6 +60,7 @@
 				"260",
 				"116",
 				"290",
+				"120",
 				"122",
 				"254",
 				"130"
@@ -105,14 +106,6 @@
 			],
 			"SurvivorComboPerkBans": [
 				[
-					"246",
-					"101"
-				],
-				[
-					"36",
-					"78"
-				],
-				[
 					"67",
 					"76"
 				],
@@ -121,8 +114,8 @@
 					"67"
 				],
 				[
-					"279",
-					"21"
+					"39",
+					"44"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -238,9 +231,11 @@
 			"Name": "Tier 4",
 			"SurvivorIndvPerkBans": [
 				"1",
+				"3",
 				"6",
 				"11",
 				"21",
+				"246",
 				"273",
 				"34",
 				"36",
@@ -263,7 +258,6 @@
 				"110",
 				"112",
 				"253",
-				"120",
 				"121",
 				"124",
 				"127",
@@ -294,6 +288,7 @@
 				"280",
 				"44",
 				"261",
+				"50",
 				"51",
 				"294",
 				"54",
@@ -315,10 +310,8 @@
 				"110",
 				"112",
 				"253",
-				"120",
 				"121",
 				"124",
-				"126",
 				"127",
 				"128"
 			],
@@ -375,7 +368,6 @@
 				"110",
 				"112",
 				"253",
-				"120",
 				"121",
 				"124",
 				"126",
@@ -736,7 +728,9 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				94
+				94,
+				98,
+				96
 			],
 			"ItemWhitelist": [
 				0,
@@ -1214,7 +1208,6 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"109",
 				"124"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1285,7 +1278,9 @@
 				1
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"157"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
@@ -1674,8 +1669,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"261",
-				"112",
-				"120"
+				"112"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2067,6 +2061,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"44",
 				"65"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2211,6 +2206,7 @@
 			"SurvivorIndvPerkBans": [
 				"8",
 				"101",
+				"65",
 				"70"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2571,6 +2567,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"44",
 				"65"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2769,7 +2766,7 @@
 		},
 		{
 			"Name": "The Xenomorph",
-			"KillerNotes": "",
+			"KillerNotes": "SURVIVORS ARE ALLOWED TO INTERACT WITH THE XENOMORPH'S FLAME TURRETS",
 			"IsDisabled": false,
 			"Map": [
 				0
@@ -2858,7 +2855,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"54"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2925,12 +2924,14 @@
 				0,
 				4
 			],
-			"AntiFacecampPermitted": false,
+			"AntiFacecampPermitted": true,
 			"KillerIndvPerkBans": [
 				"200"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"54"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3145,7 +3146,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],

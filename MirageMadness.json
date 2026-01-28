@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1769575266,
+	"Version": 1769576854,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -66,6 +66,7 @@
 				"130"
 			],
 			"KillerIndvPerkBans": [
+				"131",
 				"133",
 				"270",
 				"134",
@@ -174,7 +175,8 @@
 				"163",
 				"170",
 				"178",
-				"151"
+				"151",
+				"225"
 			],
 			"SurvivorComboPerkBans": [
 				[
@@ -2709,6 +2711,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"57",
 				"109"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3076,7 +3079,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"225"
+				"181"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -3458,13 +3461,17 @@
 				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"181"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -3473,14 +3480,35 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"IndividualAddonBans": [
+				820,
+				823,
+				824,
+				825,
+				828,
+				829,
+				832,
+				834,
+				835,
+				836,
+				837,
+				838
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3498,8 +3526,14 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		}
 	]
 }

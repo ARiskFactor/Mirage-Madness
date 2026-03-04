@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1772325243,
+	"Version": 1772594155,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -88,6 +88,7 @@
 				"171",
 				"174",
 				"175",
+				"299",
 				"177",
 				"180",
 				"183",
@@ -104,6 +105,7 @@
 				"292",
 				"216",
 				"218",
+				"298",
 				"225",
 				"227",
 				"235",
@@ -153,6 +155,7 @@
 				"163",
 				"170",
 				"178",
+				"184",
 				"264",
 				"189",
 				"151",
@@ -556,8 +559,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132",
-				"181"
+				"132"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -660,15 +662,11 @@
 					"210"
 				]
 			],
-			"SurvivorIndvPerkBans": [
-				"13"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
-			"KillerWhitelistedPerks": [
-				"132"
-			],
+			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [

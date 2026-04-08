@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1775016046,
+	"Version": 1775617845,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -83,6 +83,7 @@
 				"149",
 				"150",
 				"153",
+				"154",
 				"155",
 				"244",
 				"167",
@@ -96,9 +97,12 @@
 				"183",
 				"186",
 				"265",
+				"188",
 				"256",
 				"195",
+				"196",
 				"204",
+				"278",
 				"205",
 				"208",
 				"284",
@@ -213,8 +217,10 @@
 				"273",
 				"34",
 				"38",
+				"39",
 				"279",
 				"280",
+				"308",
 				"57",
 				"67",
 				"69",
@@ -263,6 +269,7 @@
 				"261",
 				"307",
 				"308",
+				"294",
 				"57",
 				"61",
 				"67",
@@ -1806,7 +1813,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
-				"11"
+				"11",
+				"246"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2577,7 +2585,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
-				"11"
+				"11",
+				"112"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2715,11 +2724,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				5
+				6
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				5
+				6
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2786,19 +2795,16 @@
 			],
 			"BalanceTiers": [
 				0,
-				2
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"279",
-				"57"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3468,11 +3474,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				2
+				3
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				2
+				3
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3486,7 +3492,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				817,
-				810,
 				806,
 				818,
 				811,
@@ -3569,7 +3574,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				820,
 				823,
 				824,
 				825,

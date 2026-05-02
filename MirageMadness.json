@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1777757669,
+	"Version": 1777763341,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -213,13 +213,13 @@
 			"SurvivorIndvPerkBans": [
 				"6",
 				"21",
+				"24",
 				"273",
 				"34",
 				"38",
 				"39",
 				"279",
 				"280",
-				"308",
 				"57",
 				"67",
 				"69",
@@ -298,6 +298,7 @@
 		{
 			"Name": "Tier 5",
 			"SurvivorIndvPerkBans": [
+				"306",
 				"1",
 				"3",
 				"6",
@@ -720,6 +721,7 @@
 				},
 				"Toolbox": {
 					"Addons": [
+						0,
 						1,
 						2,
 						3,
@@ -742,7 +744,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				3
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -914,7 +916,8 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"26"
+				"26",
+				"70"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1170,7 +1173,7 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				3,
+				2,
 				5
 			],
 			"KillerOfferings": [
@@ -1271,8 +1274,7 @@
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"1",
-				"11"
+				"1"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1522,7 +1524,6 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"11",
 				"53",
 				"95",
 				"112"
@@ -1738,11 +1739,12 @@
 				0,
 				3
 			],
-			"AntiFacecampPermitted": false,
+			"AntiFacecampPermitted": true,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"261",
+				"50",
 				"112"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1816,7 +1818,6 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
-				"11",
 				"246"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1888,7 +1889,9 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"246"
+				"246",
+				"307",
+				"50"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2137,6 +2140,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"44",
+				"54",
 				"65"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2211,7 +2215,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"44"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2288,7 +2294,6 @@
 			"SurvivorIndvPerkBans": [
 				"8",
 				"101",
-				"50",
 				"65",
 				"70"
 			],
@@ -2362,8 +2367,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"11",
-				"39",
+				"50",
 				"112"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2587,7 +2591,6 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
-				"11",
 				"112"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2661,7 +2664,6 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"44",
-				"50",
 				"65"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2967,7 +2969,8 @@
 				678
 			],
 			"ItemWhitelist": [
-				5
+				5,
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3415,8 +3418,8 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"11",
 				"261",
+				"50",
 				"112"
 			],
 			"SurvivorComboPerkBans": [],

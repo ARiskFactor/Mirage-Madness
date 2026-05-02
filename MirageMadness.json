@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1777167923,
+	"Version": 1777757669,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -85,6 +85,7 @@
 				"153",
 				"154",
 				"155",
+				"163",
 				"244",
 				"167",
 				"168",
@@ -114,7 +115,6 @@
 				"225",
 				"227",
 				"235",
-				"297",
 				"238",
 				"293",
 				"257",
@@ -157,14 +157,14 @@
 			"Name": "Tier 1",
 			"SurvivorIndvPerkBans": [],
 			"KillerIndvPerkBans": [
-				"163",
 				"170",
 				"172",
 				"178",
 				"184",
 				"264",
 				"189",
-				"151"
+				"151",
+				"297"
 			],
 			"SurvivorComboPerkBans": [
 				[]
@@ -195,7 +195,6 @@
 				"36"
 			],
 			"KillerIndvPerkBans": [
-				"163",
 				"170",
 				"178",
 				"264",
@@ -239,7 +238,7 @@
 				"36"
 			],
 			"KillerIndvPerkBans": [
-				"163",
+				"178",
 				"151"
 			],
 			"SurvivorComboPerkBans": [
@@ -267,6 +266,7 @@
 				"280",
 				"261",
 				"307",
+				"50",
 				"294",
 				"57",
 				"61",
@@ -278,6 +278,7 @@
 				"96",
 				"92",
 				"102",
+				"103",
 				"109",
 				"110",
 				"112",
@@ -288,7 +289,9 @@
 				"128",
 				"36"
 			],
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"178"
+			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		},
@@ -332,6 +335,7 @@
 				"97",
 				"92",
 				"102",
+				"103",
 				"107",
 				"109",
 				"110",
@@ -395,6 +399,7 @@
 				"97",
 				"92",
 				"102",
+				"103",
 				"107",
 				"109",
 				"110",
@@ -975,9 +980,7 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"54"
@@ -1049,9 +1052,7 @@
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1400,9 +1401,8 @@
 				},
 				"Med-Kit": {
 					"Addons": [
-						0,
-						1,
-						2
+						2,
+						11
 					]
 				},
 				"Toolbox": {
@@ -1618,7 +1618,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -2007,6 +2012,7 @@
 				},
 				"Toolbox": {
 					"Addons": [
+						0,
 						1,
 						2,
 						3,
@@ -2127,9 +2133,7 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"163"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"44",
@@ -3017,13 +3021,14 @@
 				0,
 				4
 			],
-			"AntiFacecampPermitted": true,
+			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"200"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"54"
+				"54",
+				"65"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3195,7 +3200,12 @@
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3328,7 +3338,6 @@
 				772,
 				773,
 				776,
-				777,
 				778,
 				775
 			],
@@ -3344,7 +3353,8 @@
 					"Addons": [
 						1,
 						2,
-						3
+						3,
+						4
 					]
 				},
 				"Med-Kit": {

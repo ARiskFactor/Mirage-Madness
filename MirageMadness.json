@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1777763341,
+	"Version": 1778361569,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -505,7 +505,9 @@
 				5
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"297"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -3505,7 +3507,6 @@
 				817,
 				806,
 				818,
-				811,
 				812
 			],
 			"ItemWhitelist": [

@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1780014893,
+	"Version": 1780273111,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -188,6 +188,7 @@
 				"80",
 				"96",
 				"102",
+				"109",
 				"253",
 				"121",
 				"127",
@@ -583,8 +584,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132",
-				"220"
+				"132"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -594,7 +594,8 @@
 			],
 			"SurvivorIndvPerkBans": [
 				"38",
-				"80"
+				"80",
+				"128"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -779,7 +780,9 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"8",
 				"44",
+				"65",
 				"97"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2110,7 +2113,6 @@
 			"SurvivorIndvPerkBans": [
 				"48",
 				"69",
-				"109",
 				"110"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2650,6 +2652,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"1",
+				"261",
 				"112"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3329,6 +3332,7 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"50",
 				"65"
 			],
 			"SurvivorComboPerkBans": [],
@@ -3496,6 +3500,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"261",
+				"307",
 				"50",
 				"112"
 			],
@@ -3573,7 +3578,9 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"65"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],

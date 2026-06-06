@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1780273111,
+	"Version": 1780719342,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -75,7 +75,6 @@
 			"KillerIndvPerkBans": [
 				"131",
 				"133",
-				"270",
 				"134",
 				"136",
 				"138",
@@ -146,10 +145,6 @@
 				[
 					"159",
 					"226"
-				],
-				[
-					"170",
-					"220"
 				]
 			]
 		},
@@ -212,7 +207,9 @@
 		{
 			"Name": "Tier 3",
 			"SurvivorIndvPerkBans": [
+				"1",
 				"6",
+				"11",
 				"21",
 				"24",
 				"273",
@@ -221,7 +218,9 @@
 				"39",
 				"279",
 				"280",
+				"308",
 				"57",
+				"61",
 				"67",
 				"69",
 				"76",
@@ -267,6 +266,7 @@
 				"280",
 				"261",
 				"307",
+				"308",
 				"50",
 				"294",
 				"57",
@@ -276,6 +276,8 @@
 				"76",
 				"77",
 				"80",
+				"89",
+				"95",
 				"96",
 				"92",
 				"102",
@@ -343,6 +345,7 @@
 				"110",
 				"112",
 				"253",
+				"118",
 				"121",
 				"124",
 				"126",
@@ -369,7 +372,6 @@
 				"246",
 				"27",
 				"273",
-				"33",
 				"34",
 				"38",
 				"39",
@@ -384,8 +386,10 @@
 				"51",
 				"294",
 				"54",
+				"56",
 				"57",
 				"61",
+				"64",
 				"65",
 				"67",
 				"69",
@@ -407,6 +411,7 @@
 				"110",
 				"112",
 				"253",
+				"118",
 				"121",
 				"124",
 				"126",
@@ -595,6 +600,7 @@
 			"SurvivorIndvPerkBans": [
 				"38",
 				"80",
+				"96",
 				"128"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1303,9 +1309,7 @@
 				"245"
 			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"1"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1382,6 +1386,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"10",
+				"246",
 				"286",
 				"32",
 				"38",
@@ -1859,7 +1864,6 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"1",
 				"246"
 			],
 			"SurvivorComboPerkBans": [],
@@ -2651,7 +2655,6 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"1",
 				"261",
 				"112"
 			],
@@ -3188,7 +3191,6 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				708,
 				716,
 				717,
 				718
@@ -3406,7 +3408,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"132"
+				"132",
+				"297"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [

@@ -3523,21 +3523,14 @@
 				794,
 				798
 			],
-			"ItemWhitelist": [
-				5,
-				0
+			"ItemWhitelist": [	0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": [
-						1,
-						2,
-						3,
-						4
-					]
+					"Addons": []
 				},
 				"Med-Kit": {
 					"Addons": []

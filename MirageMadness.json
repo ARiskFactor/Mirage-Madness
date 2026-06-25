@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1781836588,
+	"Version": 1782356802,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -772,8 +772,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"11",
 				"19",
+				"20",
 				"32"
 			],
 			"BalanceTiers": [
@@ -3523,7 +3523,8 @@
 				794,
 				798
 			],
-			"ItemWhitelist": [	0
+			"ItemWhitelist": [
+				0
 			],
 			"AddonWhitelist": {
 				"Firecracker": {

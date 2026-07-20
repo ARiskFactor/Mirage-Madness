@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1782586719,
+	"Version": 1784523060,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -162,8 +162,7 @@
 				"184",
 				"264",
 				"189",
-				"151",
-				"297"
+				"151"
 			],
 			"SurvivorComboPerkBans": [
 				[]
@@ -1924,7 +1923,7 @@
 		{
 			"Name": "The Executioner",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"3",
 				"8",
@@ -1944,7 +1943,8 @@
 			"SurvivorIndvPerkBans": [
 				"246",
 				"307",
-				"50"
+				"50",
+				"112"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3245,7 +3245,7 @@
 		{
 			"Name": "The Dark Lord",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"43",
 				"9",

@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1784523060,
+	"Version": 1789258083,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -17,7 +17,9 @@
 				"16",
 				"17",
 				"18",
+				"247",
 				"19",
+				"318",
 				"20",
 				"73",
 				"22",
@@ -28,7 +30,6 @@
 				"288",
 				"312",
 				"33",
-				"40",
 				"108",
 				"43",
 				"303",
@@ -42,7 +43,6 @@
 				"59",
 				"289",
 				"62",
-				"313",
 				"66",
 				"269",
 				"74",
@@ -51,17 +51,16 @@
 				"81",
 				"83",
 				"84",
-				"85",
 				"86",
-				"88",
 				"90",
+				"96",
+				"320",
 				"99",
 				"100",
 				"275",
 				"105",
 				"106",
 				"263",
-				"111",
 				"113",
 				"260",
 				"302",
@@ -71,8 +70,8 @@
 				"120",
 				"122",
 				"304",
+				"128",
 				"254",
-				"314",
 				"130"
 			],
 			"KillerIndvPerkBans": [
@@ -81,6 +80,7 @@
 				"134",
 				"136",
 				"138",
+				"315",
 				"147",
 				"149",
 				"150",
@@ -89,16 +89,17 @@
 				"155",
 				"163",
 				"244",
-				"167",
 				"168",
 				"171",
+				"173",
 				"174",
 				"175",
 				"299",
 				"177",
+				"178",
 				"180",
-				"310",
 				"183",
+				"316",
 				"186",
 				"265",
 				"188",
@@ -111,7 +112,7 @@
 				"208",
 				"284",
 				"211",
-				"292",
+				"212",
 				"216",
 				"218",
 				"209",
@@ -139,10 +140,6 @@
 				[
 					"36",
 					"80"
-				],
-				[
-					"112",
-					"124"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -158,8 +155,7 @@
 			"KillerIndvPerkBans": [
 				"170",
 				"172",
-				"178",
-				"184",
+				"181",
 				"264",
 				"189",
 				"151"
@@ -177,6 +173,7 @@
 		{
 			"Name": "Tier 2",
 			"SurvivorIndvPerkBans": [
+				"6",
 				"21",
 				"34",
 				"38",
@@ -186,6 +183,7 @@
 				"80",
 				"96",
 				"102",
+				"103",
 				"109",
 				"253",
 				"121",
@@ -195,9 +193,8 @@
 			],
 			"KillerIndvPerkBans": [
 				"170",
-				"178",
-				"264",
-				"151"
+				"181",
+				"264"
 			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": [
@@ -2868,7 +2865,7 @@
 		{
 			"Name": "The Singularity",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"43",
 				"8",
@@ -2876,16 +2873,23 @@
 			],
 			"BalanceTiers": [
 				0,
-				3
+				2
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"143",
+				"317",
+				"206",
+				"207"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"39"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3245,7 +3249,7 @@
 		{
 			"Name": "The Dark Lord",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"43",
 				"9",
@@ -3261,7 +3265,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"181"
+				"297"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
@@ -3400,8 +3404,8 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
+				"4",
 				"6",
-				"9",
 				"49"
 			],
 			"BalanceTiers": [
@@ -3645,7 +3649,7 @@
 		{
 			"Name": "The First",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"4",
 				"7",
@@ -3733,7 +3737,7 @@
 			"Map": [
 				"5",
 				"9",
-				"31"
+				"49"
 			],
 			"BalanceTiers": [
 				0,
@@ -3744,9 +3748,7 @@
 				2
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [
-				"184"
-			],
+			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"67"
@@ -3766,6 +3768,84 @@
 				846,
 				847,
 				852
+			],
+			"ItemWhitelist": [
+				0,
+				5
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				"1",
+				"16",
+				"29"
+			],
+			"BalanceTiers": [
+				0,
+				2
+			],
+			"SurvivorBalanceTiers": [
+				0,
+				2
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				863,
+				868,
+				873,
+				875,
+				870,
+				877,
+				878,
+				872
 			],
 			"ItemWhitelist": [
 				0,

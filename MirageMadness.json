@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1792557569,
+	"Version": 1792560448,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2375,7 +2375,7 @@
 		{
 			"Name": "The Cenobite",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"8",
 				"33",

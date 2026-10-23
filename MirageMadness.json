@@ -1,6 +1,6 @@
 {
 	"Name": "Mirage Madness",
-	"Version": 1792560448,
+	"Version": 1792718805,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -8,7 +8,6 @@
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
 				"0",
-				"285",
 				"5",
 				"52",
 				"7",
@@ -37,19 +36,14 @@
 				"268",
 				"46",
 				"49",
-				"262",
 				"55",
 				"274",
 				"252",
 				"59",
-				"289",
 				"62",
 				"66",
-				"269",
 				"74",
 				"295",
-				"79",
-				"81",
 				"83",
 				"84",
 				"86",
@@ -91,7 +85,6 @@
 				"163",
 				"244",
 				"168",
-				"283",
 				"171",
 				"173",
 				"174",
@@ -159,6 +152,7 @@
 			"SurvivorIndvPerkBans": [],
 			"KillerIndvPerkBans": [
 				"170",
+				"283",
 				"181",
 				"264",
 				"189",
@@ -202,6 +196,7 @@
 			],
 			"KillerIndvPerkBans": [
 				"170",
+				"283",
 				"181",
 				"264",
 				"317",
@@ -247,14 +242,12 @@
 				"110",
 				"253",
 				"121",
-				"124",
 				"126",
 				"127",
 				"36"
 			],
 			"KillerIndvPerkBans": [
-				"178",
-				"151"
+				"283"
 			],
 			"SurvivorComboPerkBans": [
 				[
@@ -295,6 +288,7 @@
 				"69",
 				"76",
 				"77",
+				"79",
 				"80",
 				"89",
 				"95",
@@ -348,13 +342,16 @@
 				"294",
 				"54",
 				"57",
+				"289",
 				"61",
 				"313",
 				"65",
 				"67",
 				"69",
+				"269",
 				"76",
 				"77",
+				"79",
 				"80",
 				"89",
 				"95",
@@ -412,15 +409,18 @@
 				"54",
 				"56",
 				"57",
+				"289",
 				"61",
 				"313",
 				"64",
 				"65",
 				"67",
 				"69",
+				"269",
 				"72",
 				"76",
 				"77",
+				"79",
 				"80",
 				"82",
 				"89",
@@ -541,6 +541,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"283",
 				"181",
 				"317",
 				"297"
@@ -812,6 +813,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"283",
 				"181",
 				"317"
 			],
@@ -969,6 +971,7 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"26",
+				"262",
 				"70"
 			],
 			"SurvivorComboPerkBans": [],
@@ -1263,6 +1266,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"283",
 				"181",
 				"317"
 			],
@@ -1675,6 +1679,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"283",
 				"181",
 				"317"
 			],
@@ -2543,6 +2548,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"283",
 				"181",
 				"317"
 			],
@@ -2620,6 +2626,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"283",
 				"181",
 				"317"
 			],
